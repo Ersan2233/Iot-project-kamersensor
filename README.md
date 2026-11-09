@@ -61,6 +61,10 @@ De uitgelezen sensorwaarden worden via een Wi-Fi-verbinding doorgestuurd naar ee
 * **Backend / Webserver:** Geschreven in **PHP** voor het ontvangen van de sensordata (via HTTP POST/GET requests) en het verwerken van de gegevens.
 
 * **Microcontroller Firmware:** C++ / Arduino IDE met Wi-Fi- en HTTP-clientbibliotheken voor communicatie met het PHP-script.
+* ** https://esp-sensorstation.alwaysdata.net/
+* ** wachtwoord key website: 8e140f823616154a2ee23a15d0b798758ac5453cc88948a09ce80038dc84d7f2
+* ** Huis 1 api: 1ea52b1eb253f68030ccc1f570a6ef397c3489e5f8b20c63dcb6ccbcede6f683
+* ** Huis 2 api: 4dbb45c7777294e7c21d6c84c026e069e56cc86342b8324e6ca228a9a8c09082
 
 ##  Aansluitschema
 
